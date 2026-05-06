@@ -1,0 +1,171 @@
+[
+  {
+    "ID": "1",
+    "Sec_Type": "Video",
+    "SEC_Name": "الخطب",
+    "Sec_IMG": "5otab.png",
+    "Item_Name": "فيديو",
+    "Sub_Item_Name": "1",
+    "Link": "https://www.youtube.com/watch?v=gcR_HFy5da4"
+  },
+  {
+    "ID": "1",
+    "Sec_Type": "Video",
+    "SEC_Name": "الخطب",
+    "Sec_IMG": "5otab.png",
+    "Item_Name": "فيديو",
+    "Sub_Item_Name": "2",
+    "Link": "https://www.youtube.com/watch?v=gcR_HFy5da4"
+  },
+  {
+    "ID": "1",
+    "Sec_Type": "Video",
+    "SEC_Name": "الخطب",
+    "Sec_IMG": "5otab.png",
+    "Item_Name": "فيديو",
+    "Sub_Item_Name": "1",
+    "Link": "https://www.youtube.com/watch?v=gcR_HFy5da4"
+  },
+
+  {
+    "ID": "2",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الخطب",
+    "Sec_IMG": "5otab.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "2",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الخطب",
+    "Sec_IMG": "5otab.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "3",
+    "Sec_Type": "Audio",
+    "SEC_Name": "السيرة و الشمائل",
+    "Sec_IMG": "Sera.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "3",
+    "Sec_Type": "Audio",
+    "SEC_Name": "السيرة و الشمائل",
+    "Sec_IMG": "Sera.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "4",
+    "Sec_Type": "Audio",
+    "SEC_Name": "النحو",
+    "Sec_IMG": "Na7w.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "4",
+    "Sec_Type": "Audio",
+    "SEC_Name": "النحو",
+    "Sec_IMG": "Na7w.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "5",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الحديث",
+    "Sec_IMG": "Hadeth.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "5",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الحديث",
+    "Sec_IMG": "Hadeth.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "6",
+    "Sec_Type": "Audio",
+    "SEC_Name": "التفسير",
+    "Sec_IMG": "Tafser.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "6",
+    "Sec_Type": "Audio",
+    "SEC_Name": "التفسير",
+    "Sec_IMG": "Tafser.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "6",
+    "Sec_Type": "Audio",
+    "SEC_Name": "التفسير",
+    "Sec_IMG": "Tafser.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "7",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الأداب و الاخلاق",
+    "Sec_IMG": "Adab.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "7",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الأداب و الاخلاق",
+    "Sec_IMG": "Adab.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+
+  {
+    "ID": "8",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الفقه",
+    "Sec_IMG": "Feqh.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "1",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  },
+  {
+    "ID": "8",
+    "Sec_Type": "Audio",
+    "SEC_Name": "الفقه",
+    "Sec_IMG": "Feqh.png",
+    "Item_Name": "الإستعداد للموت",
+    "Sub_Item_Name": "2",
+    "Link": "https://ia601506.us.archive.org/29/items/3_20191212_20191212_1412/%D8%B3%D9%84%D8%B3%D9%84%D8%A9%20%D8%A3%D8%AD%D8%A7%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%20%D8%AE%D8%A7%D9%84%D8%B5/1-%5B%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%20%D9%84%D9%84%D9%85%D9%88%D8%AA%5D..mp3"
+  }
+]
