@@ -1,0 +1,235 @@
+{
+  "NAV": {
+    "HOME": "Home",
+    "SERVICES": "Services",
+    "ADVANTAGES": "Advantages",
+    "WHAT_WE_DO": "What We Do",
+    "SKILLS": "Skills",
+    "ABOUT": "About Us",
+    "VISION": "Our Vision",
+    "CONTACT": "Contact Us"
+  },
+
+  "HERO": {
+    "SUB": "Integrated Media Agency",
+    "TITLE1": "Economic",
+    "TITLE2": "Media Solutions",
+    "DESC": "We provide integrated media and economic solutions that help organizations and individuals achieve their communication goals with the highest level of professionalism.",
+    "BTN1": "Discover Our Services",
+    "BTN2": "Contact Us"
+  },
+
+  "SERVICES": {
+    "TITLE": "Our Services",
+    "SUB": "Discover what we do",
+
+    "CARD1_TITLE": "Media Center Management & Operations",
+    "CARD1_DESC": "We establish and develop media centers and provide highly skilled professionals to operate them efficiently.",
+
+    "CARD2_TITLE": "Public Opinion Building",
+    "CARD2_DESC": "We help organizations prepare and shape public opinion before launching campaigns, services, or decisions.",
+
+    "CARD3_TITLE": "Brand Positioning",
+    "CARD3_DESC": "We specialize in positioning personalities and brands to achieve their desired image and impact.",
+
+    "CARD4_TITLE": "Social Media Management",
+    "CARD4_DESC": "We professionally manage social media platforms to strengthen communication with audiences.",
+
+    "CARD5_TITLE": "Economic Content Creation",
+    "CARD5_DESC": "We create professional economic and business-focused media content for organizations and companies.",
+
+    "CARD6_TITLE": "Brand Development",
+    "CARD6_DESC": "We believe branding is more than colors and logos; it is a complete audience experience.",
+
+    "CARD7_TITLE": "Press Conference Organization",
+    "CARD7_DESC": "We organize professional press conferences and ensure strong media coverage.",
+
+    "CARD8_TITLE": "Corporate Media Identity",
+    "CARD8_DESC": "We design and manage media identities that create strong visual recognition for organizations.",
+
+    "CARD9_TITLE": "Marketing Campaigns",
+    "CARD9_DESC": "We plan, design, and manage digital and traditional marketing campaigns for maximum impact.",
+
+    "READ_MORE": "Read More"
+  },
+
+  "ADVANTAGES": {
+    "TITLE": "Our Advantages",
+    "SUB": "What makes us different?",
+
+    "CARD1_TITLE": "Innovation",
+    "CARD1_DESC": "Creative solutions",
+
+    "CARD2_TITLE": "Quality",
+    "CARD2_DESC": "High-quality work",
+
+    "CARD3_TITLE": "Experience",
+    "CARD3_DESC": "Years of expertise",
+
+    "CARD4_TITLE": "Happy Clients",
+    "CARD4_DESC": "Client satisfaction is our goal",
+
+    "CARD5_TITLE": "24/7 Support",
+    "CARD5_DESC": "Always available"
+  },
+
+  "PROCESS": {
+    "TITLE": "What We Do",
+    "SUB": "How we achieve exceptional results",
+
+    "STEP1_TITLE": "Discovery",
+    "STEP1_DESC": "We understand your needs and goals",
+
+    "STEP2_TITLE": "Planning",
+    "STEP2_DESC": "We create a customized strategic plan",
+
+    "STEP3_TITLE": "Execution",
+    "STEP3_DESC": "We execute the plan with precision",
+
+    "STEP4_TITLE": "Launch",
+    "STEP4_DESC": "We launch your project and monitor its success"
+  },
+
+  "SKILLS": {
+    "TITLE": "Our Skills",
+    "SUB": "Expertise across multiple fields",
+
+    "CARD1_TITLE": "Brand Strategy",
+    "CARD1_DESC": "Developing and positioning brands strategically",
+
+    "CARD2_TITLE": "Digital Marketing",
+    "CARD2_DESC": "Comprehensive digital marketing strategies and execution",
+
+    "CARD3_TITLE": "Video Production",
+    "CARD3_DESC": "Professional video production for all content types",
+
+    "CARD4_TITLE": "Content Creation",
+    "CARD4_DESC": "Engaging content across all platforms",
+
+    "CARD5_TITLE": "Creative Design",
+    "CARD5_DESC": "Outstanding visual design and unique branding",
+
+    "CARD6_TITLE": "Public Relations",
+    "CARD6_DESC": "Specialized media and public relations services"
+  },
+
+  "CLIENTS": {
+    "TITLE": "Our Clients",
+    "SUB": "We are proud of our partners' trust",
+
+    "CLIENTS": "Clients",
+    "PROJECTS": "Projects",
+    "EXPERIENCE": "Years of Experience"
+  },
+
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "SUB": "We are here to help you",
+
+    "ADDRESS": "Riyadh - King Fahd District - Al Olaya",
+    "NAME": "Full Name",
+    "EMAIL": "Email Address",
+    "SUBJECT": "Subject",
+    "MESSAGE": "Your Message...",
+    "BTN": "Send Message"
+  },
+  "FOOTER": {
+  "DESC": "A2Z Media, Production & Strategic Communication provides integrated media and marketing solutions that help companies build a strong presence and achieve real impact.",
+
+  "QUICK_LINKS": "Quick Links",
+  "PORTFOLIO": "Portfolio",
+
+  "SERVICES_TITLE": "Our Services",
+  "SERVICE1": "Media & Production",
+  "SERVICE2": "Digital Marketing",
+  "SERVICE3": "Public Relations",
+  "SERVICE4": "Creative Design",
+
+  "FOLLOW_US": "Follow Us",
+  "SOCIAL_DESC": "Follow our latest work and updates on social media.",
+
+  "COPYRIGHT": "© 2026 A2Z Media, Production & Strategic Communication. All rights reserved."
+},
+  "SERVICES_DETAILS": {
+    "PUBLIC_OPINION": {
+      "TITLE": "Public Opinion Shaping & Preparation",
+      "DESC": "Many organizations launch marketing campaigns for a decision or service before understanding public reaction. If reactions are negative, they often need multiple corrective campaigns afterward. Therefore, preparing the audience before launching any decision or service is essential. Some organizations also require additional approvals from decision-makers, and presenting it as public opinion helps achieve their goals successfully."
+    },
+
+    "BRAND_UPGRADE": {
+      "TITLE": "Brand Elevation",
+      "DESC": "We believe a brand is a complete experience built in the audience’s perception over time. This service moves your brand from market presence to a strong influential position. We start by analyzing identity, audience, and competition, then develop clear messaging and storytelling that builds trust and belonging."
+    },
+
+    "WEBSITE_DEV": {
+      "TITLE": "Website Development Services",
+      "DESC": "We build high-quality professional websites including corporate sites and e-commerce platforms with complete UI/UX experience. We focus on speed, usability, and clean design to ensure the best user experience."
+    },
+
+    "PRINT_PACKAGING": {
+      "TITLE": "Premium Printing & Packaging Solutions",
+      "DESC": "We don’t just print — we create a premium identity around your product. We combine global printing technologies with innovative packaging solutions using carefully selected materials for durability and luxury finishing."
+    },
+
+    "LIVE_EVENTS": {
+      "TITLE": "Live Event Streaming Services",
+      "DESC": "We provide professional live streaming of events across social media platforms and television when required. This allows real-time audience engagement with high-quality video and audio broadcasting."
+    },
+
+    "MEDIA_CENTERS": {
+      "TITLE": "Media Center Management & Operations",
+      "DESC": "We establish and develop media centers from scratch or improve existing ones. We also manage customer service centers to ensure high performance, efficiency, and customer satisfaction."
+    },
+
+    "MEDIA_COVERAGE": {
+      "TITLE": "High-Level Media Coverage",
+      "DESC": "We provide extensive media coverage for events, conferences, and forums through a strong network of media relations ensuring clear and impactful messaging to the target audience."
+    },
+
+    "SOCIAL_MEDIA": {
+      "TITLE": "Social Media Management",
+      "DESC": "We manage social media platforms professionally to enhance engagement, build trust, and analyze audience reactions in real time for better marketing strategies."
+    },
+
+    "REPUTATION": {
+      "TITLE": "Reputation & Image Enhancement",
+      "DESC": "We help organizations improve public perception and correct misconceptions through strategic reputation management campaigns that build trust and credibility."
+    },
+
+    "PR": {
+      "TITLE": "Media Relations",
+      "DESC": "Our professional media team ensures your events receive strong coverage through strategic communication and media coordination to maximize audience reach."
+    },
+
+    "SPONSORSHIP": {
+      "TITLE": "Sponsorship & Event Specialists",
+      "DESC": "We transform sponsorships into interactive brand experiences by integrating sponsors into event identity and creating real return on investment."
+    },
+
+    "PERSONAL_BRANDING": {
+      "TITLE": "Personal Branding",
+      "DESC": "We build personal identity and manage media presence across social and traditional platforms to achieve professional and public goals."
+    },
+
+    "ECONOMIC_CONTENT": {
+      "TITLE": "Economic Content Writing",
+      "DESC": "We create specialized economic media content that aligns organizations’ public image with their real economic nature."
+    },
+
+    "MARKETING": {
+      "TITLE": "Marketing Campaigns",
+      "DESC": "We design and manage data-driven marketing campaigns across digital and traditional media to deliver measurable results."
+    },
+
+    "IDENTITY": {
+      "TITLE": "Corporate Media Identity Design & Management",
+      "DESC": "We build unified media identities that reflect the organization’s mission, values, and presence across all platforms."
+    },
+
+    "SOFTWARE": {
+      "TITLE": "Software Engineering",
+      "DESC": "We develop custom software solutions including websites, e-commerce systems, and internal platforms using modern technologies ensuring performance and security."
+    }
+  }
+
+}
