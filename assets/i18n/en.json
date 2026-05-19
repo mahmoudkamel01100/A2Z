@@ -19,6 +19,21 @@
     "BTN2": "Contact Us"
   },
 
+  "CLIENTS": {
+  "TITLE": "Our Clients",
+  "SUBTITLE": "Trusted by leading brands and companies"
+},
+"CLIENTS_STATS": {
+  "CLIENTS": "Clients",
+  "PROJECTS": "Projects",
+  "COUNTRIES": "Countries"
+},
+
+  "Impact": {
+    "TITLE": "How to create an impact",
+    "DESC": "Carefully crafted media and communications solutions to enhance presence and shape public image for long-term impact"
+  },
+
   "SERVICES": {
     "TITLE": "Our Services",
     "SUB": "Discover what we do",
@@ -51,6 +66,11 @@
     "CARD9_DESC": "We plan, design, and manage digital and traditional marketing campaigns for maximum impact.",
 
     "READ_MORE": "Read More"
+  },
+
+  "Impact Different": {
+    "TITLE": "What makes our impact different?",
+    "DESC": "We build communication and media strategies that are linked to real impact, not just appearances"
   },
 
   "ADVANTAGES": {
@@ -112,16 +132,6 @@
     "CARD6_TITLE": "Public Relations",
     "CARD6_DESC": "Specialized media and public relations services"
   },
-
-  "CLIENTS": {
-    "TITLE": "Our Clients",
-    "SUB": "We are proud of our partners' trust",
-
-    "CLIENTS": "Clients",
-    "PROJECTS": "Projects",
-    "EXPERIENCE": "Years of Experience"
-  },
-
   "CONTACT": {
     "TITLE": "Contact Us",
     "SUB": "We are here to help you",
@@ -230,6 +240,11 @@
       "TITLE": "Software Engineering",
       "DESC": "We develop custom software solutions including websites, e-commerce systems, and internal platforms using modern technologies ensuring performance and security."
     }
+  },
+
+  "WORKS": {
+    "TITLE": "Our Works",
+    "DESC": ""
   }
 
 }
