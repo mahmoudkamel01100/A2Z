@@ -1,14 +1,12 @@
 {
   "NAV": {
-    "HOME": "Home",
-    "SERVICES": "Services",
-    "ADVANTAGES": "Advantages",
-    "WHAT_WE_DO": "What We Do",
-    "SKILLS": "Skills",
-    "ABOUT": "About Us",
-    "VISION": "Our Vision",
-    "CONTACT": "Contact Us"
-  },
+  "HOME": "Home",
+  "IMPACT": "How We Create Impact",
+  "WORKS": "Our Work",
+  "ABOUT": "About Us",
+  "VISION": "Our Vision",
+  "CONTACT": "Contact Us"
+},
 
   "HERO": {
     "SUB": "Integrated Media Agency",
@@ -16,7 +14,7 @@
     "TITLE2": "Media Solutions",
     "DESC": "We provide integrated media and economic solutions that help organizations and individuals achieve their communication goals with the highest level of professionalism.",
     "BTN1": "Discover Our Services",
-    "BTN2": "Contact Us"
+    "BTN2": "Start creating your impact"
   },
 
   "CLIENTS": {
@@ -35,38 +33,39 @@
   },
 
   "SERVICES": {
-    "TITLE": "Our Services",
-    "SUB": "Discover what we do",
+  "TITLE": "Our Services",
+  "SUB": "Discover What We Do",
 
-    "CARD1_TITLE": "Media Center Management & Operations",
-    "CARD1_DESC": "We establish and develop media centers and provide highly skilled professionals to operate them efficiently.",
+  "CARD3_TITLE": "Branding",
+  "CARD3_DESC": "We build a mental image that reflects the organization’s value and ambitions by understanding the market and audience, crafting a presence that leaves the right impression and gives the brand greater clarity and impact.",
 
-    "CARD2_TITLE": "Public Opinion Building",
-    "CARD2_DESC": "We help organizations prepare and shape public opinion before launching campaigns, services, or decisions.",
+  "CARD2_TITLE": "Public Opinion Shaping & Preparation",
+  "CARD2_DESC": "We develop communication strategies that help organizations prepare public opinion and build conviction before launching initiatives and campaigns, ensuring messages are delivered with greater impact and acceptance.",
 
-    "CARD3_TITLE": "Brand Positioning",
-    "CARD3_DESC": "We specialize in positioning personalities and brands to achieve their desired image and impact.",
+  "CARD1_TITLE": "Media Center Management & Operations",
+  "CARD1_DESC": "We establish and develop integrated media centers that support faster communication and more effective message management, while providing professional teams and operational methodologies that ensure stronger and more sustainable media presence.",
 
-    "CARD4_TITLE": "Social Media Management",
-    "CARD4_DESC": "We professionally manage social media platforms to strengthen communication with audiences.",
+  "CARD4_TITLE": "Social Media Management",
+  "CARD4_DESC": "We manage digital platforms through a strategic approach focused on strengthening presence and boosting engagement, using content and communication that reflect the organization’s identity and create a more consistent brand image.",
 
-    "CARD5_TITLE": "Economic Content Creation",
-    "CARD5_DESC": "We create professional economic and business-focused media content for organizations and companies.",
+  "CARD5_TITLE": "Economic Content Creation",
+  "CARD5_DESC": "We deliver professional media and economic content that transforms complex messages into clear and impactful communication, while maintaining accuracy, strong presentation, and relevance to the target audience.",
 
-    "CARD6_TITLE": "Brand Development",
-    "CARD6_DESC": "We believe branding is more than colors and logos; it is a complete audience experience.",
+  "CARD6_TITLE": "Brand Enhancement",
+  "CARD6_DESC": "We reshape the brand experience in a way that strengthens its market presence and creates a deeper connection with audiences through identity and communication that reflect its true value.",
 
-    "CARD7_TITLE": "Press Conference Organization",
-    "CARD7_DESC": "We organize professional press conferences and ensure strong media coverage.",
+  "CARD7_TITLE": "Press Conference Organization",
+  "CARD7_DESC": "We professionally manage press conferences and media events to ensure message clarity, high-quality coverage, and stronger visibility for the organization among media and audiences.",
 
-    "CARD8_TITLE": "Corporate Media Identity",
-    "CARD8_DESC": "We design and manage media identities that create strong visual recognition for organizations.",
+  "CARD8_TITLE": "Corporate Media Identity Design & Management",
+  "CARD8_DESC": "We develop consistent media identities that strengthen organizations’ presence among their audiences and partners, ensuring clear messaging and a cohesive visual and communication experience.",
 
-    "CARD9_TITLE": "Marketing Campaigns",
-    "CARD9_DESC": "We plan, design, and manage digital and traditional marketing campaigns for maximum impact.",
+  "CARD9_TITLE": "Marketing Campaigns",
+  "CARD9_DESC": "We design communication campaigns based on a deep understanding of the market and audience, aiming to maximize reach, build influence, and achieve results aligned with the organization’s goals and public image.",
 
-    "READ_MORE": "Read More"
-  },
+  "CARD10_TITLE": "Call Center Establishment & Operations",
+  "CARD10_DESC": "We build integrated call centers that help organizations manage customer communication more efficiently, while enhancing follow-up quality and customer experience through professional communication teams."
+},
 
   "Impact Different": {
     "TITLE": "What makes our impact different?",
@@ -74,41 +73,41 @@
   },
 
   "ADVANTAGES": {
-    "TITLE": "Our Advantages",
-    "SUB": "What makes us different?",
+  "TITLE": "What do we build behind every successful presence?",
+  "SUB": "We help organizations and brands build a media presence that enhances trust, clarifies the message, and creates long-term impact.",
 
-    "CARD1_TITLE": "Innovation",
-    "CARD1_DESC": "Creative solutions",
+  "CARD1_TITLE": "A presence that builds trust",
+  "CARD1_DESC": "We create a mental image that reflects the value of the organization and strengthens its position in front of its audience.",
 
-    "CARD2_TITLE": "Quality",
-    "CARD2_DESC": "High-quality work",
+  "CARD2_TITLE": "Clearer messages",
+  "CARD2_DESC": "We develop a communication language that makes the message stronger, more understandable, and more impactful.",
 
-    "CARD3_TITLE": "Experience",
-    "CARD3_DESC": "Years of expertise",
+  "CARD3_TITLE": "Impact beyond visibility",
+  "CARD3_DESC": "We don’t focus only on reach, but on creating a lasting impression.",
 
-    "CARD4_TITLE": "Happy Clients",
-    "CARD4_DESC": "Client satisfaction is our goal",
+  "CARD4_TITLE": "Content that reflects professionalism",
+  "CARD4_DESC": "We turn ideas into media experiences that support institutional presence.",
 
-    "CARD5_TITLE": "24/7 Support",
-    "CARD5_DESC": "Always available"
-  },
+  "CARD5_TITLE": "A scalable presence",
+  "CARD5_DESC": "We build strategies that help organizations expand with consistency and clarity."
+},
 
   "PROCESS": {
-    "TITLE": "What We Do",
-    "SUB": "How we achieve exceptional results",
+  "TITLE": "How We Build Impact",
+  "SUB": "We work through a methodology that starts with understanding the organization and ends with a stronger, more influential media presence in the market.",
 
-    "STEP1_TITLE": "Discovery",
-    "STEP1_DESC": "We understand your needs and goals",
+  "STEP1_TITLE": "Understanding the organization and market",
+  "STEP1_DESC": "We study the organization's identity, how it appears, and its relationship with its audience to identify real opportunities for impact.",
 
-    "STEP2_TITLE": "Planning",
-    "STEP2_DESC": "We create a customized strategic plan",
+  "STEP2_TITLE": "Building image and message",
+  "STEP2_DESC": "We develop a communication strategy that reflects the organization's value and strengthens its brand perception.",
 
-    "STEP3_TITLE": "Execution",
-    "STEP3_DESC": "We execute the plan with precision",
+  "STEP3_TITLE": "Managing media presence",
+  "STEP3_DESC": "We turn the strategy into content and media experiences that enhance trust and public perception.",
 
-    "STEP4_TITLE": "Launch",
-    "STEP4_DESC": "We launch your project and monitor its success"
-  },
+  "STEP4_TITLE": "Measuring impact and improvement",
+  "STEP4_DESC": "We monitor performance and continuously improve the presence to ensure clearer and more sustainable impact."
+},
 
   "SKILLS": {
     "TITLE": "Our Skills",
@@ -133,7 +132,7 @@
     "CARD6_DESC": "Specialized media and public relations services"
   },
   "CONTACT": {
-    "TITLE": "Contact Us",
+    "TITLE": "Start creating your impact",
     "SUB": "We are here to help you",
 
     "ADDRESS": "Riyadh - King Fahd District - Al Olaya",
